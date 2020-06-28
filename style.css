@@ -1,0 +1,41 @@
+.container {
+  text-align: center;  
+  font-weight: bolder;
+  color:rgb(224, 64, 6);
+  font-size: 25px;
+}
+
+.jumbotron {
+    background-image: url(https://media-api.theknot.com/images/a3203851-5acd-4e36-844f-301eb4beaef4);
+}
+
+ 
+.block{
+    float: left;
+    margin-right: 10px;
+    clear: both;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+
+.description{
+    border: blue;
+    float:left;     
+    text-align: left;
+    outline-color: darkgray;
+    background-color: darkgray;
+    margin-left: 2rem;
+    padding-right: 0rem;
+    margin-bottom: 2px;
+}
+
+.button {
+padding-left: 0rem;
+margin-left: 0rem;
+width: 2rem;
+clear: both;
+padding-bottom: 2rem;
+margin-bottom: 40rem;
+margin-top: 40rem;
+
+}
